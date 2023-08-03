@@ -67,7 +67,7 @@ header .material-symbols-outlined {
 .grid-item-1 {
   grid-area: grid-item-1;
   background: #edb0b0;
-  background: url(./assets/img3.jpg);
+  background: url(./assets/img1.jpg);
   background-position: center;
   background-size: cover;
   height: 420px;
