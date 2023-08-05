@@ -176,7 +176,7 @@ button:active {
 }
 .grid-item-2 {
   grid-area: grid-item-2;
-  background: #a87777;
+  background: #8c93f4;
   padding: 20px;
   border-radius: 8px;
 }
@@ -215,7 +215,7 @@ button:active {
 }
 .grid-item-4 {
   grid-area: grid-item-4;
-  background: #edb0b0;
+  background: #b0b0ed;
   background: url(./assets/img5.jpg);
   background-position: center;
   background-size: cover;
@@ -269,7 +269,7 @@ button:active {
 .grid-item-5 {
   grid-area: grid-item-5;
   position: relative;
-  background: #edb0b0;
+  background: #303776;
   background: url(./assets/img1.jpg);
   background-position: center;
   background-size: cover;
